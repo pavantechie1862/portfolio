@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+Pavan Marapalli's portfolio
 
-Template Name: iproject
-Template URL: https://bootstrapmade.com/iproject-bootstrap-project-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
